@@ -1,4 +1,4 @@
-A very well designed landing page design I encountered on Dribbble. I **_immediately_** knew I wanted to build it out!
+A very well designed landing page I encountered on Dribbble. I **_immediately_** knew I wanted to build it out!
 
 🧑‍💻 Live demo here: https://blue-landing-page.vercel.app/
 
